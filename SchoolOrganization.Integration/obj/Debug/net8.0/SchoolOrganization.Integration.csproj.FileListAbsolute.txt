@@ -1,0 +1,11 @@
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\bin\Debug\net8.0\SchoolOrganization.Integration.deps.json
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\bin\Debug\net8.0\SchoolOrganization.Integration.dll
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\bin\Debug\net8.0\SchoolOrganization.Integration.pdb
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\obj\Debug\net8.0\SchoolOrganization.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\obj\Debug\net8.0\SchoolOrganization.Integration.AssemblyInfoInputs.cache
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\obj\Debug\net8.0\SchoolOrganization.Integration.AssemblyInfo.cs
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\obj\Debug\net8.0\SchoolOrganization.Integration.csproj.CoreCompileInputs.cache
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\obj\Debug\net8.0\SchoolOrganization.Integration.dll
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\obj\Debug\net8.0\refint\SchoolOrganization.Integration.dll
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\obj\Debug\net8.0\SchoolOrganization.Integration.pdb
+C:\Users\Aldrich Jason\OneDrive\Desktop\Finalssssss\SchoolOrganization.Integration\obj\Debug\net8.0\ref\SchoolOrganization.Integration.dll
